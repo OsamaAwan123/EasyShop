@@ -1,8 +1,10 @@
-# React + Vite
+##Description
+EasyShop Website is a responsive and user-friendly e-commerce platform designed to provide a seamless shopping experience. Developed using React.js and styled with Tailwind CSS, the website offers a modern and visually appealing interface. Effortless browsing, convenient product filtering options, and detailed product information empower users to make informed purchase decisions. The optimized responsive design ensures that the website looks and functions flawlessly across various devices, including desktops, tablets, and mobile phones.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+##Output_Screenshots
+![](src/assets/1.jpeg)
+![](src/assets/2.jpeg)
+![](src/assets/3.jpeg)
+![](src/assets/4.jpeg)
+![](src/assets/5.jpeg)
+![](src/assets/6.jpeg)
